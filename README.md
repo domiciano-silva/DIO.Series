@@ -1,4 +1,4 @@
-# Digital Innovation One - Prática .NET
+##Digital Innovation One - Prática .NET
 
 ## Criando uma APP de cadastro em memória
 
@@ -12,7 +12,7 @@ Github:  [github.com/domiciano-silva](https://github.com/domiciano-silva)
 
 
 
-##Projeto Original
+## Projeto Original
 ## Contato
 Eliézer Zarpelão
 
